@@ -1,9 +1,9 @@
 # Testrepo
 
-*Väldigt bra
+* Väldigt bra
 
-*Väldigt fint
+* Väldigt fint
 
-*Inga fel
+* Inga fel
 
 Sista raden
